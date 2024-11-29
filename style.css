@@ -1,0 +1,62 @@
+*{
+    font-family: "Montserrat", sans-serif;
+}
+header{
+    background-color:#8ba6ac;
+}
+header a{
+    color:#fdfaeb ;
+}
+.nav-item a{
+    color: #fdfaeb;
+}
+#boton-perfil{
+    background-color: #edd661;
+}
+.nav-item a:hover{
+    color: #d7d7b8;
+}
+#app{
+    color: #919180;
+}
+.boton-cv{
+    background-color:#085764 ;
+    color:#f8f8ec;
+}
+.caja-habilidades{
+    background-color:#eaeaea;
+}
+.btn-proyecto{
+    background-color: #085764;
+}
+.btn-proyecto a{
+    text-decoration: none;
+    color: #d7d7b8;
+}
+.card .card-title{
+    color: #044654;
+}
+#contacto{
+    background-color: #c5dfe0;
+    color: #34025f;
+}
+#contacto p{
+    color: #34025f;
+}
+#btn-contacto{
+    background-color: #d2bcec;
+    color: #34025f;
+}
+#btn-contacto:hover{
+    background-color: #edd661;
+}
+footer .bi{
+    color: #6a5904;
+}
+footer p{
+    color: #34025f;
+}
+footer p a{
+    text-decoration: none;
+    color: #6a5904;
+}

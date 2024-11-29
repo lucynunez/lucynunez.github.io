@@ -4,7 +4,7 @@ var typewriter = new Typewriter(app, {
     loop: true
 });
 //comentario
-typewriter.typeString('Lienciada en Comercio Exterior y Desarrolladora Frontend Jr.')
+typewriter.typeString('Licenciada en Comercio Exterior y Desarrolladora Frontend Jr.')
     .pauseFor(2500)
     .deleteAll()
     .typeString('¡Si lo puedes exportar, lo puedes conquistar!')
